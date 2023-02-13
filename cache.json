@@ -1,0 +1,16 @@
+{
+    "hashes": {
+        "checkpoint/sd-v1-4-full-ema.ckpt": {
+            "mtime": 1676311952.9962068,
+            "sha256": "14749efc0ae8ef0329391ad4436feb781b402f4fece4883c7ad8d10556d8a36a"
+        },
+        "checkpoint/v1-5-pruned.ckpt": {
+            "mtime": 1676316547.7261987,
+            "sha256": "e1441589a6f3c5a53f5f54d0975a18a7feb7cdf0b0dee276dfc3331ae376a053"
+        },
+        "checkpoint/sd-v1-4.ckpt": {
+            "mtime": 1676311861.1604564,
+            "sha256": "fe4efff1e174c627256e44ec2991ba279b3816e364b49f9be2abc0b3ff3f8556"
+        }
+    }
+}

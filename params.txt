@@ -1,0 +1,9 @@
+SCP 682
+"fighting"
+SCP 173
+S CP 343
+
+Negative prompt: SCP 682
+playful!!!
+SCP 173
+Steps: 50, Sampler: DPM2, CFG scale: 7.5, Seed: 3440522766, Size: 464x1408, Model hash: 14749efc0a, Model: sd-v1-4-full-ema
